@@ -2,7 +2,7 @@
 
 ## Project overview
 
-## Question 1 What are the regional sales in the best-performing country?.
+## Question-1: What are the regional sales in the best-performing country?.
 
 ![image](./assets/Answer1.jpg)
 
@@ -15,7 +15,7 @@ Northeast: $6,939,374 (11.0%)
 Southeast: $7,875,655 (12.5%)
 Central: $7,909,009 (12.6%)
 
-## Question 2 Calculate the total population for all African countries in 2010. Create a bar chart showing the population distribution across African countries in 2010.
+## Question-2: Calculate the total population for all African countries in 2010. Create a bar chart showing the population distribution across African countries in 2010.
 
 ![image](./assets/Answer2a.png)
 
